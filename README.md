@@ -8,8 +8,7 @@ I'm doing the analysis and visualizations in Power BI tool.
 Dax Function Used : DateAdd, AddColumns, Filter, Calculate, Switch, If,Else,All, AllExcept, AllSelected.
 
 Power BI Dashboards
-
-
+![](https://github.com/Devendrasingh8/Data-Analysis-and-EDA/blob/main/Dashboard.gif)
 
 After going through the analysis, here are some interesting findings:
 1. Improvements should be done on same day of shipment mode
