@@ -7,6 +7,10 @@ I'm doing the analysis and visualizations in Power BI tool.
 
 Dax Function Used : DateAdd, AddColumns, Filter, Calculate, Switch, If,Else,All, AllExcept, AllSelected.
 
+Power BI Dashboards
+
+
+
 After going through the analysis, here are some interesting findings:
 1. Improvements should be done on same day of shipment mode
 2. The company had alots of profits in copier but the number of sales is very less so there is a need to increase number of sales in copier.
